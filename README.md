@@ -23,5 +23,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=prem-dharshan&icon=0&color=1)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prem-dharshan&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="prem-dharshan" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
